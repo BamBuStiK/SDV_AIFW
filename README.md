@@ -182,7 +182,7 @@ Minikube 클러스터를 시작합니다:
 ### Minikube Docker 환경 설정
 Minikube의 Docker 환경에서 이미지를 활용할 수 있도록 설정합니다:
   ```bash
-  eval $(minikube docker-env)
+  eval $minikube docker-env
 ```
 ## (c) Deployment 생성
 ### deployment.yaml 파일 적용
